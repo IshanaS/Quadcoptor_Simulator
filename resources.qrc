@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/simple.frag</file>
+        <file>shaders/simple.vert</file>
+        <file>Images/Picture.jpg</file>
+        <file>Music/HelicoptorMusic.mp3</file>
+        <file>Music/StartUpMusic.mp3</file>
+    </qresource>
+</RCC>
