@@ -6,4 +6,6 @@ The purpose of the software is to let the user test the quadrotor in the virtual
 
 This software project closely reflects the use of object oriented programming C++ to solve ordinary differential equations and update the parameters in real time to realise the trajectory of the quadrotor. This trajectory is displayed in real-time on the screen for visual feedback for the user. 
 
-For more details: QuadcoptorFlightSimulator.pdf
+Start at: Final_Project.pro
+
+For more details: QuadrotorFlightSimulator.pdf
